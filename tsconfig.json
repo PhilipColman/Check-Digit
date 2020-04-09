@@ -1,0 +1,19 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "ES6",
+    "sourceMap": true,
+    "watch": true,
+    "outDir": "./js",
+    "rootDir": "./ts",
+    "removeComments": true,
+    //"outFile": "./js/app.js",
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true
+  }
+}
