@@ -4,8 +4,4 @@ Check digit is PWA that can fully work offline that works out the check digit fo
 
 ## Usage
 
-You can find a live copy of this app [here](https://projects.bytearmy.tk/check-digit), simply type in your location and be amazed...
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+You can find a live copy of this app [here](https://check.bytearmy.tk), simply type in your location and be amazed...
